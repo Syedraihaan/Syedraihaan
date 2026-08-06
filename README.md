@@ -1,280 +1,381 @@
-<h1 align="center">Hi, I'm Syed Raihaan 👋</h1>
-
-<h3 align="center">
-SOC Analyst • Incident Response Enthusiast • DFIR Practitioner • Founder of NULLGRIDS LABS
-</h3>
+<!-- =============================== -->
+<!--      Animated Header            -->
+<!-- =============================== -->
 
 <p align="center">
-Building cyber defense solutions, investigating threats, and creating practical cybersecurity projects.
-</p><p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=Syed%20Raihaan&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Backend%20Developer%20|%20Security%20Engineering&descAlignY=58"/>
+</p>
 
-<img src="https://img.shields.io/badge/Cybersecurity-Analyst-red?style=for-the-badge" />
+<p align="center">
 
-<img src="https://img.shields.io/badge/DFIR-Investigator-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/SOC-Operations-green?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Founder-NULLGRIDS_LABS-purple?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Muay_Thai-Gold_Medalist-gold?style=for-the-badge" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Java+%7C+Spring+Boot+%7C+Python+%7C+Go;Building+Secure+%26+Scalable+Software;Founder+%40+NULLGRIDS+LABS)](https://git.io/typing-svg)
 
 </p>
----
-
-## 🚀 About Me
-
-🎓 B.E Computer Science & Engineering (Cyber Security)
-
-🛡️ Cybersecurity Analyst | Blue Team | DFIR
-
-🏢 Founder & CTO of NULLGRIDS LABS
-
-🔍 Interested in:
-
-- Security Operations Center (SOC)
-- Digital Forensics & Incident Response (DFIR)
-- Threat Hunting
-- Detection Engineering
-- Threat Intelligence
-- Malware Analysis
-
-🥊 District Muay Thai Gold Medalist
-
-🥊 District Boxing Gold Medalist
-
-🏆 National-Level Kickboxer
-
-🏆 State-Level Boxer
-
-🏆 State-Level Wrestler
-<h1 align="center">
-🛡️ SOC Analyst | DFIR Enthusiast | Founder @ NULLGRIDS LABS 🛡️
-</h1>
-
-<h3 align="center">
-Threat Detection • Incident Response • Threat Hunting • Cyber Defense
-</h3>
 
 ---
 
-## 💼 Experience
+# 👋 About Me
 
-### Founder & CTO
-**NULLGRIDS LABS**
+```java
+public class SyedRaihaan {
 
-- Cybersecurity Education
-- CTF Development
-- Security Awareness
-- Incident Response Programs
-- School Cybersecurity Initiatives
+    String role = "Software Engineer";
 
-### Cybersecurity Internships
+    String education = "B.E. Computer Science & Engineering (Cyber Security)";
 
-- Pynevera Pvt Ltd
-- Intellio
-- Thiranex
-- Syntecxhub
-- Codec Technologies India
+    String[] languages = {
+        "Java",
+        "Python",
+        "Go",
+        "SQL"
+    };
 
-### Cyber Security Trainer
+    String[] backend = {
+        "Spring Boot",
+        "REST APIs",
+        "FastAPI"
+    };
 
-- Pyroguards
+    String[] databases = {
+        "MySQL",
+        "PostgreSQL",
+        "Neo4j",
+        "Elasticsearch"
+    };
 
----
-## 🛠 Tech Stack
+    String[] interests = {
+        "Backend Engineering",
+        "Cloud",
+        "DevOps",
+        "Secure Software",
+        "Distributed Systems"
+    };
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-## 🛠 Technical Skills
-
-### Security Operations
-
-- SIEM Monitoring
-- Alert Triage
-- Threat Detection
-- Threat Hunting
-- Incident Response
-- IOC Analysis
-
-### DFIR
-
-- Digital Forensics
-- Evidence Collection
-- Timeline Analysis
-- Registry Analysis
-- Memory Analysis
-- Incident Documentation
-## 🛡 Security Tools
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
-
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-
-![Autopsy](https://img.shields.io/badge/Autopsy-0066CC?style=for-the-badge)
-
-![Volatility](https://img.shields.io/badge/Volatility-990000?style=for-the-badge)
-
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge)
-
-![MITRE_ATT%26CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge)
-### Tools
-
-- Wazuh
-- ELK Stack
-- Sysmon
-- Wireshark
-- Autopsy
-- Volatility
-- Burp Suite
-- Nmap
-- Docker
-
-### Programming
-
-- Python
-- PowerShell
-- Bash
-- SQL
-- FastAPI
-
-### Frameworks
-
-- MITRE ATT&CK
-- OWASP Top 10
-- Sigma Rules
-- Cyber Kill Chain
+}
+```
 
 ---
 
-## 🚨 Featured Projects
+# 🌐 Connect
 
-### 🔥 IRIS
+<p align="center">
+
+<a href="https://github.com/Syedraihaan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/syed-raihaan-a03445291">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:syedraihaan.ms@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://nullfist.github.io">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=go"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=bash"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 MediCare Secure
+
+Enterprise Hospital Appointment & Security Management System
+
+**Stack**
+
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- MySQL
+- Bootstrap
+
+**Highlights**
+
+- Role Based Authentication
+- JWT
+- REST APIs
+- Audit Logging
+- Brute Force Protection
+- SQL Injection Prevention
+
+---
+
+## ⚡ Detection Rule Engine
+
+Production-grade backend rule compiler.
+
+- Go
+- PostgreSQL
+- REST API
+- YAML
+- Rule Validation
+- Version Control
+
+---
+
+## 🔥 IRIS
+
 Incident Reconstruction & Intelligence System
 
-- Attack Timeline Reconstruction
-- MITRE ATT&CK Mapping
-- Threat Correlation
-- Machine Learning Detection
+- FastAPI
+- Neo4j
+- Elasticsearch
+- Event Correlation
+- Graph Analysis
 
-### 🔥 SOCForge
-Enterprise Security Telemetry & Attack Simulation Platform
+---
 
-- 441,000+ Simulated Events
-- Attack Emulation
+## 🛡️ SOCForge
+
+Enterprise Security Telemetry Simulator
+
+- Python
+- Docker
+- ELK
+- Attack Simulation
 - Detection Validation
-- SOC Training
-
-### 🔥 NULLVAULT
-Secure Encrypted Storage Engine
-
-- AES Encryption
-- PBKDF2
-- JWT Authentication
-- Secure File Sharing
-
-### 🔥 Operation BLACK CIPHER
-
-National Cyber Warfare Championship
-
-- CTF Infrastructure
-- Attack-Defense Simulation
-- Cybersecurity Competition Platform
 
 ---
 
-## 🏆 Achievements
+# 🎯 Current Focus
 
-🥇 District Muay Thai Champion
+- Backend Engineering
+- Spring Boot
+- Java
+- Cloud Computing
+- System Design
+- Secure Software Engineering
+- DevOps
+- Distributed Systems
 
-🥇 District Boxing Champion
-
-🏆 HackQuest National CTF
-Ranked 26th among 400 teams
-
-🏆 DEFCON CTF
-Ranked 67th (Team Event)
-
-📄 Published Research on AI in Cybersecurity
-
-👨‍🏫 Conducted Cybersecurity Boot Camps
-
-🏢 Founded MSME Registered Cybersecurity Organization
 
 ---
-## 📊 GitHub Statistics
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nullfist&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syedraihaan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullfist&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedraihaan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-## 📜 Certifications
-
-- Microsoft SC-900
-- Fortinet NSE 1
-- Fortinet NSE 2
-- Cisco Introduction to Cybersecurity
-- Linux Essentials
-- Cyber Threat Management
-- OWASP Top 10
-- CCEP
-- CPPS
-- CTIGA
 
 ---
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nullfist&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-## 📊 Current Focus
+# 🔥 Contribution Streak
 
-🔵 Detection Engineering
-
-🔵 DFIR Automation
-
-🔵 Threat Hunting
-
-🔵 SOC Operations
-
-🔵 Security Research
-
-🔵 Cybersecurity Product Development
-
----
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nullfist&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syedraihaan&theme=tokyonight&hide_border=true"/>
 
 </p>
-## 📫 Connect With Me
-
-LinkedIn: linkedin.com/in/syed-raihaan-a03445291
-
-GitHub: github.com/nullfist
-
-Email: syedraihaan.ms@gmail.com
 
 ---
 
-> "Security is not about stopping every attack.
-> It's about detecting, responding, and recovering faster than the adversary."
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syedraihaan&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Syedraihaan&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🏅 Professional Highlights
+
+🏢 Founder & Technical Lead — NULLGRIDS LABS
+
+💻 Built multiple production-style backend applications
+
+🛡️ Developed enterprise security engineering platforms
+
+🚀 Designed scalable REST APIs and automation systems
+
+📚 Passionate about Software Architecture & System Design
+
+🌐 Open Source Contributor & Continuous Learner
+
+---
+
+# 📜 Certifications
+
+✔ Microsoft SC-900
+
+✔ Cisco Introduction to Cybersecurity
+
+✔ Fortinet NSE 1 & NSE 2
+
+✔ Linux Essentials
+
+✔ OWASP Top 10
+
+✔ Cyber Threat Management
+
+---
+
+# 🎯 Current Focus (2026)
+
+```text
+Backend Engineering        ██████████████░░ 90%
+
+Spring Boot               █████████████░░░ 85%
+
+System Design             ██████████░░░░░░ 70%
+
+Cloud Computing           █████████░░░░░░░ 65%
+
+DevOps                    █████████░░░░░░░ 65%
+
+Distributed Systems       ████████░░░░░░░░ 60%
+
+Security Engineering      ███████████████░ 95%
+```
+
+---
+
+# 🌱 Currently Learning
+
+- Spring Boot Enterprise Development
+- System Design
+- Docker & CI/CD
+- AWS Cloud Fundamentals
+- Microservices
+- Design Patterns
+
+---
+
+# 💬 Favourite Quote
+
+> *"First solve the problem. Then optimize it. Then secure it."*
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:syedraihaan.ms@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/syed-raihaan-a03445291">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Syedraihaan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://nullfist.github.io">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Syedraihaan&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+
+</p>
