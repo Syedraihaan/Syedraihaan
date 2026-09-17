@@ -19,7 +19,7 @@
 ```java
 public class SyedRaihaan {
 
-    String role = "Software Engineer";
+    String role = "Cybersecurity Trainer";
 
     String education = "B.E. Computer Science & Engineering (Cyber Security)";
 
